@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Harrison Enyeart 👋
+📚 I'm a student at the **University of North Carolina** studying **Computer Science** and **Data Science**
+💻 I'm currently interning at Kaleido doing software engineering
 
 <!--
 **HJEunc/HJEunc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
